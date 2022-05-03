@@ -1,5 +1,7 @@
 # acer-aspire-e5-575g-53vg-EFI
 
+** BigSur **
+
 - Intel Core i5-6200U 2.3Ghz~2.8Ghz
 - Nvidia GeForce 940mx 2GB (not used)
 - 8GB DDR4 Memory
