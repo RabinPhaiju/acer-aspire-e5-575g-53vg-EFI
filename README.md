@@ -1,4 +1,4 @@
-# acer-aspire-e5-575g-53vg-EFI
+# acer aspire e5 575g 53vg EFI
 
 ** BigSur **
 
